@@ -1,0 +1,32 @@
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\appsettings.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.staticwebassets.runtime.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.exe
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.deps.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.runtimeconfig.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\bin\Debug\net6.0\Progress Steps.pdb
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.csproj.AssemblyReference.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.AssemblyInfoInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.AssemblyInfo.cs
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.RazorAssemblyInfo.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.RazorAssemblyInfo.cs
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets\msbuild.Progress Steps.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets\msbuild.build.Progress Steps.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Progress Steps.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Progress Steps.props
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\scopedcss\bundle\Progress Steps.styles.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\scopedcss\projectbundle\Progress Steps.bundle.scp.css
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\refint\Progress Steps.dll
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.pdb
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\Progress Steps.genruntimeconfig.cache
+C:\Users\Propietario\OneDrive\Escritorio\Projects\Progress Steps\obj\Debug\net6.0\ref\Progress Steps.dll
